@@ -1,0 +1,92 @@
+body{
+    background-color: #FFECAF;
+    color: #5C2028;
+    font-family: 'Josefin Sans';
+}
+header{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 32px;
+}
+h3{
+    font-size: 24px;
+}
+p{
+    font-size: 16px;
+    line-height: 20px;
+}
+nav{
+    margin-left: 35%;
+}
+hr{
+    background-color: #5C2028;
+    border:none;
+    height: 2px;
+}
+.hrlength{
+    width: 700px;
+}
+.centrar{
+    text-align: center;
+}
+.subrayado{
+    text-decoration: underline;
+}
+#navList{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    display: flex;
+    align-items: center;
+}
+.liReparto{
+    text-align: center;
+    margin-left: -20px;
+    font-style: italic;
+}
+.ulStyle{
+    list-style-type: none;
+}
+
+.imgReparto{
+    border-style:solid;
+    border-color: #E86A68;
+    border-radius: 12px;
+    width: 245px;
+    height: 313px;
+}
+#imgBorder{
+    height: 600px;
+    border-style:solid;
+    border-color: #E86A68;
+    border-radius: 12px;
+}
+.aList{
+    text-decoration: none;
+    color: #5C2028;
+}
+.navItem{
+    margin-right: 1rem;
+    border-style:solid;
+    border-color: #E86A68;
+    border-radius: 12px;
+    padding: 4px;
+}
+
+.textoImagen{
+    text-align: center;
+    font-style: italic;
+}
+.textoP{
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 0px 190px;
+}
+
+#mainContact{
+    height: 725px;
+}
